@@ -4,6 +4,10 @@ The source code provided in this repository is written in C programming language
 
 I recommend running the code using [programiz](https://www.programiz.com/c-programming/online-compiler). You can copy and paste the code into the respective online compiler and execute it. Then input any value.
 
+Result using the number 10 would look like:
+![image](https://github.com/waleed-wajdan/BitnineInternshipTest/assets/135476607/792b44e7-b882-49a8-ac7c-5b31b9a109b6)
+
+
 # Quick Review of Fibonacci Functions with Time Complexity Analysis
 
 Below is a summary of three different functions for calculating Fibonacci numbers and their respective time complexities:
