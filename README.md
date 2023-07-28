@@ -12,3 +12,6 @@ Comments are present in the code itself for further clarification.
 The source code provided in this repository is written in C programming language. To compile and run the code, you can simply use a online C editor like the one shared below.
 
 I recommend running the code using [programiz](https://www.programiz.com/c-programming/online-compiler). You can copy and paste the code into the respective online compiler and execute it.
+
+Result for the given code is:
+![image](https://github.com/waleed-wajdan/BitnineInternshipTest/assets/135476607/06375efd-fa64-48b5-a4d9-4e960073afd5)
